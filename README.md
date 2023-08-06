@@ -13,9 +13,9 @@ Requests.
 # SETUP
 Install python via: https://www.python.org/
 And restart your computer.
-Open cmd, and paste this in:
-pip install colorama
-pip install requests
+Open cmd, and paste this in: \n
+pip install colorama \n
+pip install requests \n
 Now you can open pin.py and use this tool.
 
 # DISCLAIMER!
