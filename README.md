@@ -5,9 +5,18 @@ This is used to crack one's PARENTAL PIN.
 You must be logged in the account to use this.
 
 # REQUIREMENTS
---   Python
---   pip install colorama
---   pip install requests
+To use this, You will need:
+Python
+Colorama
+Requests.
+
+# SETUP
+Install python via: https://www.python.org/
+And restart your computer.
+Open cmd, and paste this in:
+pip install colorama
+pip install requests
+Now you can open pin.py and use this tool.
 
 # DISCLAIMER!
 ! I DO NOT PROMOTE OR ENCOURAGE ANY ILLEGAL ACTIVITIES, ALL INFORMATION PROVIDED IS FOR EDUCATION PORPUSES ONLY.
